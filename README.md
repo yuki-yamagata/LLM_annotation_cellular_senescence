@@ -9,8 +9,8 @@ However, there are several issues with manual annotation.
 * Scalability issues
 * Update difficulties:
   Difficulties in keeping up-to-date article annotation
-* Dependent on annotatorch ’s ability
-LLM is an attractive techinique for annotation. 
+* Dependent on annotator’s ability
+LLM is an attractive technique for annotation. 
 
 
 ## Aim
@@ -37,7 +37,7 @@ Ontology list for mapping: GO, Protein Ontology, chEBI, Cell Ontology, Disease O
 
 ### 2.  Download figures
 
-### 3. Prepare promts
+### 3. Prepare prompts
 
 ### 4. LLM annotation using GPT-4 with Vision
 GPT-4 with Vision, sometimes referred to as GPT-4V or gpt-4-vision-preview in the API, allows the model to take in images and answer questions about them
@@ -49,11 +49,11 @@ GPT-4 with Vision, sometimes referred to as GPT-4V or gpt-4-vision-preview i
 
 ## Outcome
 1.	Human annotation: 240 relations
-2.	We conducted preliminary investigstion for prompt enginerring.
+2.	We conducted a preliminary investigation for prompt engineering.
 * Preliminary prompt:
     "Extract information about molecular biological pathways from the input figure, where the type of Node is process, protein, chemical_compound, biological_structure, or disease, and the relation type is either promote or suppress."
 * Result:
-LLM could indentify molecules, processes, and diseases.
+LLM could identify molecules, processes, and diseases.
 LLM could annotate interactions(Promote/Suppress)  between nodes interpreted and generated each type of edge (Promote/Suppress) based on the context of each figure.
 * Issue of LLM annotation:
  Hallucination: Some relationships were output even between nodes with no relationship.
@@ -65,10 +65,9 @@ LLM could annotate interactions(Promote/Suppress)  between nodes interpreted and
 #### Step 2: Determine node type(process, molecues/genes, chemical compounds, cell, disease).
 #### Step3: Determine source, target of edge
 #### Step4: Determine edge type (promote/suppress)   
-### 2. Obtology mapping by LLM
+### 2. Ontology mapping by LLM
 ### 3. Evaluation of the performance of LLM: Metrics of Precision, Recall, and F1 Score. 
- Furthermore, mapping results will be  evaluated from the both 
-lexical accuracy and emantic similarity perspectives.
+ Furthermore, mapping results will be  evaluated from both lexical accuracy and semantic similarity perspectives.
 
 
 
