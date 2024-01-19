@@ -60,13 +60,13 @@ LLM could annotate interactions(Promote/Suppress)  between nodes interpreted and
  Direct/indirect relationships need to be investigated in detail in the future. We need to identify whether annotations are derived from image annotations or interpreted from general knowledge.
 
 ## Next steps
-1. LLM annotation
-Step 1: Extract node label from figures 
-Step 2: Determine node type(process, molecues/genes, chemical compounds, cell, disease).
-Step3: Determine source, target of edge
-Step4: Determine edge type (promote/suppress)   
-2. Obtology mapping by LLM
-3. Evaluation of the performance of LLM: Metrics of Precision, Recall, and F1 Score. 
+### 1. LLM annotation
+#### Step 1: Extract node label from figures 
+#### Step 2: Determine node type(process, molecues/genes, chemical compounds, cell, disease).
+#### Step3: Determine source, target of edge
+#### Step4: Determine edge type (promote/suppress)   
+### 2. Obtology mapping by LLM
+### 3. Evaluation of the performance of LLM: Metrics of Precision, Recall, and F1 Score. 
  Furthermore, mapping results will be  evaluated from the both 
 lexical accuracy and emantic similarity perspectives.
 
