@@ -18,9 +18,10 @@ In this study, using large-scale language models (LLMs), we investigate a prelim
 
 
 ## Methods
-1. Preprocessing: 
+### 1. Preprocessing: 
 In this study, we focus on cellular senescence and aging.
-  1) PubMed search using the following search formula:
+
+ #### 1-1. PubMed search using the following search formula:
 (PubMed PMC open access[filter]) AND (((cellular senescence[MeSH Major Topic]) AND (aging[MeSH Major Topic])) AND (humans[MeSH Terms]) AND (review[Filter])) 
 Condition:
     Articles and Figure: open access.
@@ -29,22 +30,22 @@ Condition:
     Species: Human
     Article Type: Review articles
 
-  2) Prepare a set of correct answers for verification by manual annotation 
+ #### 1-2. Prepare a set of correct answers for verification by manual annotation 
 From the 409 articles, we selected nine figures from 4 articles to compare manual annotation and LLM annotation.
 Annotation: Identify nodes (process, molecules/genes, chemical compounds, cell, disease) and relationships between them (promote/suppress)
 Ontology list for mapping: GO, Protein Ontology, chEBI, Cell Ontology, Disease Ontology (DOID),  HoIP ontology
 
-2.  Download figures
+### 2.  Download figures
 
-3. Prepare promts
+### 3. Prepare promts
 
-4. LLM annotation using GPT-4 with Vision
+### 4. LLM annotation using GPT-4 with Vision
 GPT-4 with Vision, sometimes referred to as GPT-4V or gpt-4-vision-preview in the API, allows the model to take in images and answer questions about them
 
 
-5. Ontology mapping
+### 5. Ontology mapping
 
-6. Evaluation
+### 6. Evaluation
 
 ## Outcome
 1.	Human annotation: 240 relations
