@@ -1,2 +1,0 @@
-figure legend:
-Telomere damage, epigenetic dysregulation, DNA damage, and mitochondrial dysfunction are primary drivers of damage in aging. Several of these drivers of damage can induce senescence. Senescence can in turn drive the consequential aging hallmarks in response to damage: stem cell exhaustion and chronic inflammation. Other responses to damage, such as proteostatic dysfunction and nutrient signaling disruption, are also integrally linked with the senescence response. Adapted from López-Otín et al. (2013).

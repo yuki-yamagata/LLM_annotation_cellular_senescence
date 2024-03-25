@@ -1,1 +1,0 @@
-{"total": {"accuracy": 0.8215962441314554}, "by_type": {"process": {"accuracy": 0.7766990291262136}, "molecule": {"accuracy": 0.8709677419354839}, "compound": {"accuracy": 0.5}, "cell": {"accuracy": 1.0}, "disease": {"accuracy": 1.0}}}

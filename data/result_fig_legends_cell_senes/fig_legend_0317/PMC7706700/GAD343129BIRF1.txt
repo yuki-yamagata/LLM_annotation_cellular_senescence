@@ -1,2 +1,0 @@
-figure legend:
-The pleiotropic functions of the SASP. Shown here is a summary of the effects exerted by senescent cells (in the middle) that are mediated by the SASP. The effects above the senescent cell (in green) represent those that are considered beneficial, whereas those at the bottom (in red) reflect some of the detrimental consequences of the SASP
