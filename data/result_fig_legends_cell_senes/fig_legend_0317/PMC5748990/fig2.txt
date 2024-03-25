@@ -1,0 +1,2 @@
+figure legend:
+The senescence growth arrest is regulated through two main pathways, p16INK4a/Rb and p53/p21CIP1, both which converge on repression of CDK4/6. The INK4A/ARF locus is normally silenced by Polycomb repressive complexes (PRCs) and becomes activated during senescence. The p53/p21CIP1 pathway is activated downstream of the DNA damage response (DDR) from repair-resistant DNA segments with chromatin alterations reinforcing senescence (DNA-SCARS).

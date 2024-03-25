@@ -1,0 +1,64 @@
+This image is a schematic representation of cellular senescence and its associated processes and markers. Here's the annotation based on the instructions provided:
+
+1. Label Identification:
+- Telomere Erosion
+- Oncogene activation
+- DNA damage
+- Oxidative stress
+- Irradiation
+- Chemotherapy
+- iPSC reprogramming
+- Developmental cues
+- Tissue damage
+- ROS
+- NF-κB
+- C/EBPβ
+- mTOR
+- BCL-2
+- PI3K/AKT
+- DNA-SCARS
+- SAHF
+- p16
+- p21
+- p53
+- p15
+- p14
+- p27
+- SASP
+- IL-6
+- Gro-α
+- IGFBP-7
+- PAI-1
+- Autophagy
+- Lamin B1
+- CCFs
+- STING
+- SA-β-gal
+- uPAR
+- TGF-β
+- IL-1α
+- VEGF
+- CCL2
+- CCL20
+
+2. Classification of Information:
+- Molecule/Gene: p16, p21, p53, p15, p14, p27, NF-κB, C/EBPβ, mTOR, BCL-2, PI3K/AKT, Lamin B1, STING
+- Chemical Substance: ROS (Reactive Oxygen Species)
+- Cell: Senescent cell (depicted in the center)
+- Process: Telomere Erosion, Oncogene activation, DNA damage, Oxidative stress, Irradiation, Chemotherapy, iPSC reprogramming, Developmental cues, Tissue damage, Autophagy, Cellular senescence, SASP (Senescence-Associated Secretory Phenotype)
+- Disease: Not explicitly depicted, but cellular senescence is related to aging and age-related diseases.
+
+3. Identification of Relationships:
+- Telomere Erosion, DNA damage, Oncogene activation, etc., lead to cellular senescence.
+- Cellular senescence leads to the secretion of SASP factors like IL-6, Gro-α, etc.
+- SASP factors can reinforce growth arrest and contribute to inflammation.
+- Senescent cells exhibit resistance to apoptosis through BCL-2, PI3K/AKT.
+- Senescent cells show metabolic changes like SA-β-gal activity.
+- DNA damage response (p53, p21) is involved in the reinforcement of growth arrest.
+
+4. Output the Type of Relationship:
+- Positive relationships: DNA damage, Oncogene activation, etc., positively contribute to the induction of cellular senescence.
+- Negative relationships: BCL-2, PI3K/AKT provide resistance to apoptosis, which is a negative relationship to cell death.
+
+5. Organization and Output of Results:
+The image organizes the process of cellular senescence starting from initial triggers like DNA damage and oxidative stress to the final outcomes such as permanent cell cycle arrest and SASP. It shows the molecular pathways involved in the senescence process, including the activation of specific genes and proteins that maintain the senescent state and the secretion of inflammatory factors. The image also highlights the cellular changes associated with senescence, such as an enlarged cell size and the presence of SAHF and SA-β-gal. The overall context is the biological process of cellular senescence and its implications for tissue function and disease.
